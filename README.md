@@ -1,7 +1,5 @@
 # SMS Spam Detection Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/YklplKmCoUw
-
 # Dataset Information
 
 The "spam" concept is diverse: advertisements for products/web sites, make money fast schemes, chain letters, pornography...
